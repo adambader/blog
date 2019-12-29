@@ -2,17 +2,11 @@
 templateKey: index-page
 title: Adam Bader
 image: /img/home-jumbotron.jpg
-heading: 'Product Manager and Entreperneur '
-subheading: 'Articles on Product Management, Entrepreneurship, and Technology'
+heading: hello
+subheading: 'Product Manager and Entreperneur '
 mainpitch:
   title: Hello! I'm Adam
-  description: >-
-    I'm a Product Manager and Entrepreneur based in Los Angeles, California.
-    I've worked for Discovery, beIN, Real Madrid and started and sold my own
-    online businesses in the past. 
-
-
-    This is my website. 
+  description: 'I''m a Product Manager and Entrepreneur based in Los Angeles, California. '
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
